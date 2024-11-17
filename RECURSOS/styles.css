@@ -1,0 +1,20 @@
+p{
+    color: blue; font-family: cursive; text-align: center;
+    }
+    
+    h1{
+    
+    color: brown; font-family: Arial, Helvetica, sans-serif; text-align: center;
+    }
+
+    #intro {color: rgb(211, 99, 0); font-size: 20px;
+
+    }
+
+    #logo { width: 200px; height: 200px; border-radius: 10px; }
+
+    .tipos {color: blueviolet; font-weight: bold; text-align: center;} 
+
+    p {color: aquamarine;font-size: 18px;}
+
+    a {color: brown;text-decoration: none;}
