@@ -1,0 +1,34 @@
+body{
+background-color: rgb(99, 94, 94); aplica color al fondo
+margin: //elimina la margen
+padding: auto; /*elimina los espacios*/
+}
+
+.container{
+
+    display: flex; /*organiza los hijos de forma flexible*/ 
+    flex-direction: column; /*alinea los elementos en columna*/
+    align-items: center; /*centra los articulos*/
+    gap: 20px; /*espacio entre los articulos*/
+}
+
+section article{
+
+    transition:  0.3s; /*aplica una transicion suave de 0.3 seg*/
+    background-color: blue;
+    margin: 16 px;
+    border-radius: ;
+    padding: 4px;
+    cursor: pointer; /*cambia el stilo del cursor*/
+}
+/*es un estilo cuando el curso se posa sobre la imagen*/
+section article :hover{
+    box-shadow: 0 1.6px 6.4px rgba(red, green, blue, alpha);   
+}
+footer :hover{
+    
+    background-color: black;
+    transition: color 0.3s ease;
+    padding: 48px;
+    color: #ffffff;;
+}   
