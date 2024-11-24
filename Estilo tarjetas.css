@@ -1,8 +1,8 @@
-body{
+body{ 
 background-color: rgb(99, 94, 94); aplica color al fondo
-margin: //elimina la margen
-padding: auto; /*elimina los espacios*/
-}
+/* //elimina la margen */
+
+
 
 .container{
 
@@ -17,7 +17,6 @@ section article{
     transition:  0.3s; /*aplica una transicion suave de 0.3 seg*/
     background-color: blue;
     margin: 16 px;
-    border-radius: ;
     padding: 4px;
     cursor: pointer; /*cambia el stilo del cursor*/
 }
@@ -30,5 +29,5 @@ footer :hover{
     background-color: black;
     transition: color 0.3s ease;
     padding: 48px;
-    color: #ffffff;;
-}   
+    color: #ffffff;;}
+}
